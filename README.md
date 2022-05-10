@@ -1,2 +1,2 @@
-# React.js_TypeScript-getData-hooks
+# React.js_TypeScript-getData
 Created with CodeSandbox
